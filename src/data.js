@@ -12,8 +12,8 @@ let users = {
     questions: ['8xf0y6ziyjabvozdd253nd', 'am8ehyc8byjqgar0jgpub9']
   },
   tylermcginnis: {
-    id: 'tylermcginnis',
-    name: 'Tyler McGinnis',
+    id: 'tyler',
+    name: 'Tyler',
     avatarURL: 'http://bevyr.com/UserImages/2/1.png',
     answers: {
       "vthrdm985a262al8qx3do": 'optionOne',
@@ -24,7 +24,7 @@ let users = {
   johndoe: {
     id: 'johndoe',
     name: 'John Doe',
-    avatarURL: 'https://amirgroupinc.com/wp-content/uploads/2015/07/icon4.png',
+    avatarURL: 'https://www.pngkey.com/png/full/114-1149878_setting-user-avatar-in-specific-size-without-breaking.png',
     answers: {
       "xj352vofupe1dqz9emx13r": 'optionOne',
       "vthrdm985a262al8qx3do": 'optionTwo',
