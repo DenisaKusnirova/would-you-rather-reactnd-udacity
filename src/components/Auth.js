@@ -33,9 +33,6 @@ class Auth extends Component {
             <h3>Welcome to the Would You Rather App!</h3>
             <p>Please sign in to continue</p>
           </div>
-          <div className="auth-card-icon">
-            <img src={require('../react-redux-logo.jpg')} alt="react-redux-icon" />
-          </div>
           <div className="auth-card-select">
             <form>
               <FormControl>
